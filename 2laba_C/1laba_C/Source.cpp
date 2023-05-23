@@ -17,10 +17,12 @@ int main() {
 	scanf(" %s\n", st);
 	len = strlen(st);
 
-	int a, b;
+	int a;
+	int b;//используется для ввода с клавиатуры и последующего вывода переменной на экран
 	scanf("%d %d", &a, &b);
 
-	float x, y;
+	float x;
+	float y;
 	scanf("%f %f", &x, &y);
 
 	int k;
