@@ -17,7 +17,8 @@ int main() {
 	scanf(" %s\n", st);
 	len = strlen(st);
 
-	int a, b;
+	int a;
+	int b;
 	scanf("%d %d", &a, &b);
 
 	float x, y;

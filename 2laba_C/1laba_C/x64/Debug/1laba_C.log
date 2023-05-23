@@ -1,3 +1,3 @@
 ﻿  Source.cpp
-D:\лабы\C\2laba_C\2laba_C\1laba_C\Source.cpp(18,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-  1laba_C.vcxproj -> D:\лабы\C\2laba_C\2laba_C\x64\Debug\1laba_C.exe
+C:\Users\User\Desktop\labs\git\lr10\FinalWork\2laba_C\1laba_C\Source.cpp(18,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  1laba_C.vcxproj -> C:\Users\User\Desktop\labs\git\lr10\FinalWork\2laba_C\x64\Debug\1laba_C.exe
