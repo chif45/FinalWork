@@ -6,8 +6,8 @@
 
 int main() {
 
-	char ch;
-	scanf("%c", &ch);
+	char sh;
+	scanf("%c", &sh);
 
 	char st[100];
 	scanf("\n");
@@ -26,7 +26,7 @@ int main() {
 	int k;
 	scanf("%u", &k);
 
-	printf("%c, %d\n", ch, ch);
+	printf("%c, %d\n", sh, sh);
 	printf("%s, %d\n\n", st, len - 1);
 
 	printf("%d %d\n", a, b);
@@ -44,7 +44,7 @@ int main() {
 	printf("%f %.4e\n", y, y);
 	printf("%u, %o, %x", k, k, k);
 
-	getchar();
-	getchar();
+	getshar();
+	getshar();
 	return 0;
 }
